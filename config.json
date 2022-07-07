@@ -1,0 +1,7 @@
+{
+    "CLIENT_ID": "",
+    "CLIENT_SECRET": "",
+    "AUTH_TOKEN_URL": "https://studio-automation.talkdeskqaidca.com/oauth/token",
+    "API_URL": "https://api.talkdeskqaca.com",
+    "FILE_TO_UPLOAD": "../music_sample_700kb_2.mp3"
+}
